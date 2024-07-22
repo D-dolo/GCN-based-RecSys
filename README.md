@@ -1,5 +1,5 @@
 # GCN-based-RecSys
-This repository contains the implementation of a recommender system leveraging the power of GraphSAGE and LightGCN. The system is designed to provide recommendations by effectively learning from graph-structured data.
+This repository contains the implementation of a recommender system leveraging the power of GraphSAGE and LightGCN. The system is designed to provide recommendations by effectively learning from graph-structured data. This project is completed as part of the Deep Learning course in the Master's degree in AI and Robotics.
 ## Features
 - GraphSAGE Implementation: A versatile Graph Neural Network (GNN) model that generates low-dimensional embeddings for nodes by sampling and aggregating features from local neighborhoods.
 - LightGCN Implementation: A simplified and efficient variant of Graph Convolutional Networks tailored for collaborative filtering, focusing on learning embeddings by leveraging user-item interactions.
